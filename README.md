@@ -1,5 +1,7 @@
 ### Hiyall 👋
-
+hey hoy
+### About
+IT student and DJ/Music Producer VIGILVNCE
 <p align="left">
 <a href="https://github.com/pyrohunter13">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pyrohunter13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
