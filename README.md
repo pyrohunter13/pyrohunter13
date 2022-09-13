@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I am an IT student and DJ/Music Producer VIGILVNCE.<br>
 - 🌱 &nbsp; I’m currently learning Rust and Substrate.<br>
 - 👨🏻‍💻 &nbsp; Here are my coding creations from collage and other courses that I took.<br>
-- 📫 &nbsp; Check me out on <a href="https://www.linkedin.com/in/muhammad-marzuqi-laksamana-87b242168">LinkedIn</a>.<br>
+- 📫 &nbsp; Reach me out on <a href="https://www.linkedin.com/in/muhammad-marzuqi-laksamana-87b242168">LinkedIn</a>.<br>
 </p>
 <br>
 <br>
