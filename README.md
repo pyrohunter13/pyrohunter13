@@ -11,7 +11,7 @@
 - 👨🏻‍💻 &nbsp; Here are my coding creations from collage and other courses that I took.<br>
 - 💭 &nbsp; Interest in Board Gaming, Crypto, Editing, Gaming, Language Learning, and Music Production.<br>
 - 📫 &nbsp; Reach me out on <a href="https://www.linkedin.com/in/muhammad-marzuqi-laksamana-87b242168">LinkedIn</a>.<br>
-- 📚 &nbsp; Other links on <a href="https://linktr.ee/PyroHunter13">Linktree</a>.<br>
+- 📚 &nbsp; Other links <a href="https://linktr.ee/PyroHunter13">>>HERE<<</a>.<br>
 </p>
 <br>
 <br>
